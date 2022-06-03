@@ -20,16 +20,9 @@
   <a href="#thought_balloon-inspiration">Inspiration</a>
 </p>
 
-https://user-images.githubusercontent.com/61808503/171909285-6fe64bd7-4f92-47a3-873d-31791634e11a.mp4
 <h1 align="center">
-   
-
-
-
-
+   <img alt="React Firebase" src="https://user-images.githubusercontent.com/61808503/171910516-3fd3aae2-354c-4abd-8dc7-fe207c429eee.gif"/>
 </h1>
-
-
 
 ## :page_with_curl: About
 This repository contains:
