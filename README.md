@@ -47,30 +47,15 @@ This project was developed with the following technologies:
 ## :rocket: Getting started
 ``` bash
   # Clone the repository:
-  $ https://github.com/MatheusPires99/pokedex
+  $ https://github.com/fabianosilvait/react-firebase-authentication.git
 
   # Enter directory:
-  $ cd pokedex
+  $ cd react-firebase-authentication
   
   # Install dependencies:
   $ yarn
-```
-
-## :iphone: Running mobile
-```bash
-  # Enter mobile directory:
-  $ cd mobile
-
-  # Init app:
-  $ yarn start
-```
-
-## :gear: Running server
-```bash
-  # Enter server directory:
-  $ cd server
-
-  # Init app:
+  
+  # Running to init:
   $ yarn start
 ```
 
