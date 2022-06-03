@@ -1,4 +1,4 @@
-# React Firebase Authentication
+# React Firebase Authentication Database
 
 <h1 align="center">
   <img alt="React Firebase" src="https://miro.medium.com/max/1400/0*FsQGQO-4C5DZVZKY.png" />
@@ -27,7 +27,10 @@
 
 
 ## :page_with_curl: About
-This repository contains Fireabse authentication login + Dashborad Material UI.
+This repository contains:
+- Fireabse authentication login 
+- List data from Realtime database
+- Dashborad Material UI.
 
 ## :hammer: Technologies
 
@@ -47,10 +50,10 @@ This project was developed with the following technologies:
 ## :rocket: Getting started
 ``` bash
   # Clone the repository:
-  $ https://github.com/fabianosilvait/react-firebase-authentication.git
+  $ https://github.com/fabianosilvait/react-firebase-authentication-database.git
 
   # Enter directory:
-  $ cd react-firebase-authentication
+  $ cd react-firebase-authentication-database
   
   # Install dependencies:
   $ yarn
