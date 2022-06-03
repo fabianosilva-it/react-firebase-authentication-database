@@ -27,7 +27,7 @@ function Copyright() {
     <Typography variant="body2" color="textSecondary" align="center">
       {' '}
       <Link color="inherit" href="https://material-ui.com/">
-      Bellas Designer Delivery ®
+      React Firebase Authentication ®
       </Link>{' '}
       {new Date().getFullYear()}
       {'.'}
@@ -88,36 +88,16 @@ const Login = ({ history }) => {
   if (currentUser) {
     return <Redirect to="/" />;
   }
-
-  // return (
-  //   <div>
-  //     <h1>Log in</h1>
-  //     <form onSubmit={handleLogin}>
-  //       <label>
-  //         Email
-  //         <input name="email" type="email" placeholder="Email" />
-  //       </label>
-  //       <label>
-  //         Password
-  //         <input name="password" type="password" placeholder="Password" />
-  //       </label>
-  //       <button type="submit">Log in</button>
-  //     </form>
-  //   </div>
-  // );
   
 
   return (
     <Container component="main" maxWidth="xs">
       <CssBaseline />
       <div className={classes.paper}>
-        <img src={logo1} className={classes.image}></img>
-        {/* <Avatar className={classes.avatar}>
-          <LockOutlinedIcon />
-        </Avatar> */}
-        {/* <Typography component="h1" variant="h5">
-          Bellas Designer Delivery
-        </Typography> */}
+        <img src={"https://cdn.liveagent.com/app/uploads/2020/08/img-login.svg?v=2021-06-25"} className={classes.image}></img>
+        <Typography component="h1" variant="h5">
+          React Firebase Authentication
+        </Typography>
         <form className={classes.form} noValidate onSubmit={handleLogin}>
           <TextField
             variant="outlined"
@@ -128,8 +108,6 @@ const Login = ({ history }) => {
             label="E-mail"
             name="email"
             autoComplete="email"
-            // autoFocus
-            // onChange={e=> setEmail(e.target.value)}
           />
           <TextField
             variant="outlined"
@@ -151,23 +129,11 @@ const Login = ({ history }) => {
             type="submit"
             fullWidth
             variant="outlined"
-            //color="default"
-            // onClick={handleLogin}
             className={classes.submit}
           >
             Entrar
           </Button>
 
-          {/* <Button
-            type="submit"
-            fullWidth
-            variant="outlined"
-            //color="default"
-            onClick={buscarLogin}
-            className={classes.submit}
-          >
-            Checa se esta logado
-          </Button> */}
 
           <Grid container>
             <Grid item xs>

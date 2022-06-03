@@ -45,7 +45,6 @@ export default function Orders() {
 
      
       firebase.database().ref('pedidos')
-      // .orderByChild('dataOrderBy')
       .limitToFirst(10)
       .on('value', (snapshot)=>{
 
@@ -69,37 +68,6 @@ export default function Orders() {
     
     loadQuest();
   }, []);
-
-  // React.useEffect(() => {
-  //   const fetchData = async () => {
-
-  //     firebase.database().ref('pedidos')
-  //     .orderByChild('dataOrderBy')
-  //     .limitToLast(5)
-  //     .on('value', (snapshot)=>{
-        
-  //       snapshot.forEach((childItem)=>{
-
-  //         // alert(childItem.key) 
-
-  //         setListaPedidos([
-  //           ...listaPedidos,
-  //           {
-  //             id:childItem.key,
-  //           }
-  //         ]);
-
-         
-
-  //       })
-
-        
-  //     })
-  
-     
-  //   };
-  //   fetchData();
-  // }, listaPedidos);
 
   
   return (

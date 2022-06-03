@@ -38,7 +38,7 @@ function Copyright() {
     <Typography variant="body2" color="textSecondary" align="center">
       {' '}
       <Link color="inherit" href="https://material-ui.com/">
-        Bellas Designer Delivery ®
+        React Firebase Authentication ®
       </Link>{' '}
       {new Date().getFullYear()}
       {'.'}
@@ -171,10 +171,10 @@ export default function Dashboard() {
           >
             <MenuIcon />
           </IconButton>
-          {/* {Pedidos == false && <h1>Hello</h1>} */}
-          <img src={logo} className={classes.image}></img>
+          
+          <img src={"https://jafapps.com.br/wp-content/uploads/2019/01/jafapps_.png"} className={classes.image}></img>
           <Typography component="h1" variant="h6" color="inherit" noWrap className={classes.title}>
-            Bellas Designer Delivery
+            React Firebase Authentication
           </Typography>
           <IconButton color="inherit">
             <Badge badgeContent={4} color="secondary">

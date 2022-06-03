@@ -18,12 +18,10 @@ import "react-big-calendar/lib/css/react-big-calendar.css";
 
 const cult = moment.locale('fr')
 
-// moment.locale('pt-br');
-// require('globalize/lib/cultures/globalize.culture.ar-AE')
 
 moment.locale('fr');
 
-// const localizer = momentLocalizer(moment); 
+
 const localizer = momentLocalizer(moment); 
 
 const useStyles = makeStyles((theme) => ({
@@ -38,7 +36,7 @@ function createData(start, end, title) {
   }
 
 const events1 = [
-    createData(moment().toDate(), moment().add(1, "hour").toDate(), "Priscila - Progressiva")
+    createData(moment().toDate(), moment().add(1, "hour").toDate(), "New Metting")
   ];
 
    
@@ -59,8 +57,6 @@ export default function CalendarCustom() {
         <Calendar
           selectable
           localizer={localizer}
-        //   culture={cult}
-        //   rtl={'pt-br'}
           defaultDate={new Date()}
           defaultView="month"
           events={events}
