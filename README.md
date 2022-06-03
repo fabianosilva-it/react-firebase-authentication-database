@@ -30,6 +30,7 @@
 This repository contains:
 - Fireabse authentication login 
 - List data from Realtime database
+- React big Calendar
 - Dashborad Material UI.
 
 ## :hammer: Technologies
@@ -41,6 +42,7 @@ This project was developed with the following technologies:
 - [React Router](https://reactrouter.com/)
 - [Date-fns](https://date-fns.org/)
 - [Recharts](https://recharts.org/en-US/)
+- [React Big Calendar](https://www.npmjs.com/package/react-big-calendar)
 - [VS Code](https://code.visualstudio.com/)
 
 ## :books: Requirements
