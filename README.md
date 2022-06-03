@@ -1,4 +1,4 @@
-# React Firebase Authentication Example
+# React Firebase Login Authentication
 
 Put your credentials to `.env`.
 
