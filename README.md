@@ -27,7 +27,7 @@
 ## :page_with_curl: About
 This repository contains:
 - Fireabse authentication login 
-- List data from Realtime database
+- List data from Firebase realtime database
 - React big Calendar
 - Dashborad Material UI.
 
