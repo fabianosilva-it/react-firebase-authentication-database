@@ -58,6 +58,17 @@ This project was developed with the following technologies:
   # Install dependencies:
   $ yarn
   
+  # Rename .env.example to .env.
+  
+  # Set data from Firebase in .env file: 
+
+  REACT_APP_FIREBASE_KEY="xxxxxxxxxxxxxxxxxxxx"
+  REACT_APP_FIREBASE_DOMAIN="xxxxxxxxxxxx.firebaseapp.com"
+  REACT_APP_FIREBASE_DATABASE="https://xxxxxxxxxxxx.firebaseio.com"
+  REACT_APP_FIREBASE_PROJECT_ID="xxxxxxxxxxxxxx"
+  REACT_APP_FIREBASE_STORAGE_BUCKET="xxxxxxxxxxxxxx.appspot.com"
+  REACT_APP_FIREBASE_SENDER_ID=99999999999999
+  
   # Running :
   $ yarn start
 ```
