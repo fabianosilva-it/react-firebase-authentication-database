@@ -60,11 +60,11 @@ This project was developed with the following technologies:
   # Install dependencies:
   $ yarn
   
-  # Running to init:
+  # Running :
   $ yarn start
 ```
 
-# :thought_balloon: Dashboard Inspiration
+# :thought_balloon: Design Inspiration
 - Design inspired by [Material Ui design](https://mui.com/pt/material-ui/getting-started/templates/dashboard/).
 
 Made by Fabiano Silva 👋🏻 [Get in touch!](https://github.com/fabianosilvait)
