@@ -20,8 +20,13 @@
   <a href="#thought_balloon-inspiration">Inspiration</a>
 </p>
 
+https://user-images.githubusercontent.com/61808503/171909285-6fe64bd7-4f92-47a3-873d-31791634e11a.mp4
 <h1 align="center">
-   <img alt="React Firebase Authentication" src="https://user-images.githubusercontent.com/61808503/171868112-432073cd-78a0-468f-85d0-a8bfb96e617a.gif" />
+   
+
+
+
+
 </h1>
 
 
