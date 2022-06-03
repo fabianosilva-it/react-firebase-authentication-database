@@ -21,7 +21,7 @@
 </p>
 
 <h1 align="center">
-   <img alt="React Firebase" src="https://user-images.githubusercontent.com/61808503/171910516-3fd3aae2-354c-4abd-8dc7-fe207c429eee.gif"/>
+   <img alt="React Firebase" src="https://user-images.githubusercontent.com/61808503/171918872-8a27eba9-5c49-4bf0-9771-06ac912bf221.gif"/>
 </h1>
 
 ## :page_with_curl: About
