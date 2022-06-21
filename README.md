@@ -41,6 +41,7 @@ This project was developed with the following technologies:
 - [Date-fns](https://date-fns.org/)
 - [Recharts](https://recharts.org/en-US/)
 - [React Big Calendar](https://www.npmjs.com/package/react-big-calendar)
+- [Material Ui design](https://mui.com/pt/material-ui/getting-started/templates/dashboard/)
 - [VS Code](https://code.visualstudio.com/)
 
 ## :books: Requirements
